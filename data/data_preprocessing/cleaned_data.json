@@ -1,0 +1,287 @@
+[
+  {
+    "id": "3458764621330338419",
+    "type": "sticky_note",
+    "cleaned_text": "hi"
+  },
+  {
+    "id": "3458764621383452652",
+    "type": "text",
+    "cleaned_text": "hee he hi"
+  },
+  {
+    "id": "3458764624478590761",
+    "type": "text",
+    "cleaned_text": "liked"
+  },
+  {
+    "id": "3458764624478590763",
+    "type": "text",
+    "cleaned_text": "learned"
+  },
+  {
+    "id": "3458764624478590765",
+    "type": "text",
+    "cleaned_text": "lacked"
+  },
+  {
+    "id": "3458764624478590767",
+    "type": "text",
+    "cleaned_text": "longed for"
+  },
+  {
+    "id": "3458764624478590769",
+    "type": "sticky_note",
+    "cleaned_text": "ui flow on the unity side is coming together nicely"
+  },
+  {
+    "id": "3458764624478590771",
+    "type": "sticky_note",
+    "cleaned_text": "review presentation topics thread usage"
+  },
+  {
+    "id": "3458764624478590772",
+    "type": "sticky_note",
+    "cleaned_text": "more info on to what extent godot will be pushed as a long term tool if the tpc is successful"
+  },
+  {
+    "id": "3458764624478590773",
+    "type": "sticky_note",
+    "cleaned_text": "we have a godot team"
+  },
+  {
+    "id": "3458764624478590774",
+    "type": "sticky_note",
+    "cleaned_text": "were sending devs to tpc no comms around this"
+  },
+  {
+    "id": "3458764624478590775",
+    "type": "text",
+    "cleaned_text": "actions"
+  },
+  {
+    "id": "3458764624478590776",
+    "type": "sticky_note",
+    "cleaned_text": "collate pga api issues"
+  },
+  {
+    "id": "3458764624478590777",
+    "type": "sticky_note",
+    "cleaned_text": "brandon"
+  },
+  {
+    "id": "3458764624478590778",
+    "type": "sticky_note",
+    "cleaned_text": "create and follow a basic ticket template"
+  },
+  {
+    "id": "3458764624478590779",
+    "type": "sticky_note",
+    "cleaned_text": "ic all"
+  },
+  {
+    "id": "3458764624478590783",
+    "type": "sticky_note",
+    "cleaned_text": "meeting simon new boss and theres going to be some overlap with him and neha"
+  },
+  {
+    "id": "3458764624478590784",
+    "type": "sticky_note",
+    "cleaned_text": "pair programming"
+  },
+  {
+    "id": "3458764624478590792",
+    "type": "sticky_note",
+    "cleaned_text": "loved eagles winning the super bowl"
+  },
+  {
+    "id": "3458764624478590793",
+    "type": "sticky_note",
+    "cleaned_text": "bowling"
+  },
+  {
+    "id": "3458764624478590794",
+    "type": "sticky_note",
+    "cleaned_text": "pair programming"
+  },
+  {
+    "id": "3458764624478590795",
+    "type": "sticky_note",
+    "cleaned_text": "comms to godot team about godot team"
+  },
+  {
+    "id": "3458764624478590796",
+    "type": "sticky_note",
+    "cleaned_text": "comms to team about godot team"
+  },
+  {
+    "id": "3458764624478590797",
+    "type": "sticky_note",
+    "cleaned_text": "pushing pen test back thanks"
+  },
+  {
+    "id": "3458764624478590800",
+    "type": "sticky_note",
+    "cleaned_text": "tarek is a whiz at bowling"
+  },
+  {
+    "id": "3458764624478590801",
+    "type": "sticky_note",
+    "cleaned_text": "more strikes at bowling"
+  },
+  {
+    "id": "3458764624478590805",
+    "type": "sticky_note",
+    "cleaned_text": "bowling"
+  },
+  {
+    "id": "3458764624478590806",
+    "type": "sticky_note",
+    "cleaned_text": "could we add group s to slack so we can just tag eg aws team rather than tagging everyone"
+  },
+  {
+    "id": "3458764624478590807",
+    "type": "sticky_note",
+    "cleaned_text": "retro invites for godot team"
+  },
+  {
+    "id": "3458764624478590808",
+    "type": "sticky_note",
+    "cleaned_text": "bowling"
+  },
+  {
+    "id": "3458764624478590809",
+    "type": "sticky_note",
+    "cleaned_text": "sit down with the team once a week i love to include kotaro but my tesco club card budget is not enough to cover it sorry"
+  },
+  {
+    "id": "3458764624478590810",
+    "type": "sticky_note",
+    "cleaned_text": "final rc for endless purrrsuit technically belongs to this team now p"
+  },
+  {
+    "id": "3458764624478590812",
+    "type": "sticky_note",
+    "cleaned_text": "plans for posttpcshowcase"
+  },
+  {
+    "id": "3458764624478590813",
+    "type": "sticky_note",
+    "cleaned_text": "godot is a little scuffed but i like it"
+  },
+  {
+    "id": "3458764624478590816",
+    "type": "sticky_note",
+    "cleaned_text": "select monthly meeting presenter after each monthly review selected"
+  },
+  {
+    "id": "3458764624478590817",
+    "type": "sticky_note",
+    "cleaned_text": "uma"
+  },
+  {
+    "id": "3458764624478590818",
+    "type": "text",
+    "cleaned_text": "previous action followup"
+  },
+  {
+    "id": "3458764624478590819",
+    "type": "sticky_note",
+    "cleaned_text": "bowling"
+  },
+  {
+    "id": "3458764624478590820",
+    "type": "sticky_note",
+    "cleaned_text": "there is alot going on now what should we keep track of godot red blue etc"
+  },
+  {
+    "id": "3458764624478590821",
+    "type": "sticky_note",
+    "cleaned_text": "check there are groups for everyone eg lightning aws ml etc etc"
+  },
+  {
+    "id": "3458764624478590822",
+    "type": "sticky_note",
+    "cleaned_text": "everyone"
+  },
+  {
+    "id": "3458764624478590823",
+    "type": "sticky_note",
+    "cleaned_text": "no space on the designated floor space for us"
+  },
+  {
+    "id": "3458764624478590824",
+    "type": "sticky_note",
+    "cleaned_text": "ics"
+  },
+  {
+    "id": "3458764624478590825",
+    "type": "sticky_note",
+    "cleaned_text": "team lunch a particular space on a specific day"
+  },
+  {
+    "id": "3458764624478590826",
+    "type": "sticky_note",
+    "cleaned_text": "izzy"
+  },
+  {
+    "id": "3458764624478590827",
+    "type": "sticky_note",
+    "cleaned_text": "find out to what extent godot may be a long term tool"
+  },
+  {
+    "id": "3458764624478590828",
+    "type": "sticky_note",
+    "cleaned_text": "kris"
+  },
+  {
+    "id": "3458764624478590829",
+    "type": "sticky_note",
+    "cleaned_text": "post tpc plans"
+  },
+  {
+    "id": "3458764624478590830",
+    "type": "sticky_note",
+    "cleaned_text": "kris"
+  },
+  {
+    "id": "3458764624478590831",
+    "type": "sticky_note",
+    "cleaned_text": "izzy to reach out"
+  },
+  {
+    "id": "3458764624478590832",
+    "type": "sticky_note",
+    "cleaned_text": "invite sub groups suds into design meetings"
+  },
+  {
+    "id": "3458764624478590833",
+    "type": "sticky_note",
+    "cleaned_text": "suds"
+  },
+  {
+    "id": "3458764624478590834",
+    "type": "sticky_note",
+    "cleaned_text": "try talk more in the dev channel so more people get context of chats"
+  },
+  {
+    "id": "3458764624478590835",
+    "type": "sticky_note",
+    "cleaned_text": "everyone"
+  },
+  {
+    "id": "3458764624478590836",
+    "type": "sticky_note",
+    "cleaned_text": "sending devs to florida no comms about this"
+  },
+  {
+    "id": "3458764624478590837",
+    "type": "sticky_note",
+    "cleaned_text": "kris neha"
+  },
+  {
+    "id": "3458764624478590838",
+    "type": "sticky_note",
+    "cleaned_text": "find recording from marios meeting with yearly plan"
+  }
+]

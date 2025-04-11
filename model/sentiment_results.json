@@ -1,0 +1,971 @@
+[
+  {
+    "id": "3458764621330338419",
+    "type": "sticky_note",
+    "text": "hi",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.9077
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5521
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.1658
+    }
+  },
+  {
+    "id": "3458764621383452652",
+    "type": "text",
+    "text": "hee he hi",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.717
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.695
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.1474
+    }
+  },
+  {
+    "id": "3458764624478590761",
+    "type": "text",
+    "text": "liked",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.673
+    },
+    "sentiment": {
+      "label": "positive",
+      "score": 0.6646
+    },
+    "morale": {
+      "label": "supported",
+      "score": 0.2705
+    }
+  },
+  {
+    "id": "3458764624478590763",
+    "type": "text",
+    "text": "learned",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8735
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6966
+    },
+    "morale": {
+      "label": "engaged",
+      "score": 0.1861
+    }
+  },
+  {
+    "id": "3458764624478590765",
+    "type": "text",
+    "text": "lacked",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.4971
+    },
+    "sentiment": {
+      "label": "negative",
+      "score": 0.4771
+    },
+    "morale": {
+      "label": "underwhelmed",
+      "score": 0.2778
+    }
+  },
+  {
+    "id": "3458764624478590767",
+    "type": "text",
+    "text": "longed for",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7786
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6238
+    },
+    "morale": {
+      "label": "motivated",
+      "score": 0.2284
+    }
+  },
+  {
+    "id": "3458764624478590769",
+    "type": "sticky_note",
+    "text": "ui flow on the unity side is coming together nicely",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.5869
+    },
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9616
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.1653
+    }
+  },
+  {
+    "id": "3458764624478590771",
+    "type": "sticky_note",
+    "text": "review presentation topics thread usage",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.5756
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8684
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2353
+    }
+  },
+  {
+    "id": "3458764624478590772",
+    "type": "sticky_note",
+    "text": "more info on to what extent godot will be pushed as a long term tool if the tpc is successful",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.9505
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8469
+    },
+    "morale": {
+      "label": "uncertain",
+      "score": 0.2277
+    }
+  },
+  {
+    "id": "3458764624478590773",
+    "type": "sticky_note",
+    "text": "we have a godot team",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.6049
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6707
+    },
+    "morale": {
+      "label": "collaborative",
+      "score": 0.2975
+    }
+  },
+  {
+    "id": "3458764624478590774",
+    "type": "sticky_note",
+    "text": "were sending devs to tpc no comms around this",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.5808
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8259
+    },
+    "morale": {
+      "label": "disengaged",
+      "score": 0.3004
+    }
+  },
+  {
+    "id": "3458764624478590775",
+    "type": "text",
+    "text": "actions",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7025
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6431
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2299
+    }
+  },
+  {
+    "id": "3458764624478590776",
+    "type": "sticky_note",
+    "text": "collate pga api issues",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7741
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5936
+    },
+    "morale": {
+      "label": "collaborative",
+      "score": 0.2066
+    }
+  },
+  {
+    "id": "3458764624478590777",
+    "type": "sticky_note",
+    "text": "brandon",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7858
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.7234
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.1968
+    }
+  },
+  {
+    "id": "3458764624478590778",
+    "type": "sticky_note",
+    "text": "create and follow a basic ticket template",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.9586
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8731
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2455
+    }
+  },
+  {
+    "id": "3458764624478590779",
+    "type": "sticky_note",
+    "text": "ic all",
+    "emotion": {
+      "label": "surprise",
+      "score": 0.4092
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5278
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.3434
+    }
+  },
+  {
+    "id": "3458764624478590783",
+    "type": "sticky_note",
+    "text": "meeting simon new boss and theres going to be some overlap with him and neha",
+    "emotion": {
+      "label": "surprise",
+      "score": 0.4396
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.845
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.4209
+    }
+  },
+  {
+    "id": "3458764624478590784",
+    "type": "sticky_note",
+    "text": "pair programming",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.9005
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6553
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.3943
+    }
+  },
+  {
+    "id": "3458764624478590792",
+    "type": "sticky_note",
+    "text": "loved eagles winning the super bowl",
+    "emotion": {
+      "label": "joy",
+      "score": 0.8738
+    },
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9704
+    },
+    "morale": {
+      "label": "happy",
+      "score": 0.1798
+    }
+  },
+  {
+    "id": "3458764624478590793",
+    "type": "sticky_note",
+    "text": "bowling",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7782
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.7009
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2411
+    }
+  },
+  {
+    "id": "3458764624478590794",
+    "type": "sticky_note",
+    "text": "pair programming",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.9005
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6553
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.3943
+    }
+  },
+  {
+    "id": "3458764624478590795",
+    "type": "sticky_note",
+    "text": "comms to godot team about godot team",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.6699
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.9133
+    },
+    "morale": {
+      "label": "collaborative",
+      "score": 0.2579
+    }
+  },
+  {
+    "id": "3458764624478590796",
+    "type": "sticky_note",
+    "text": "comms to team about godot team",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7179
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8976
+    },
+    "morale": {
+      "label": "collaborative",
+      "score": 0.2323
+    }
+  },
+  {
+    "id": "3458764624478590797",
+    "type": "sticky_note",
+    "text": "pushing pen test back thanks",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.6591
+    },
+    "sentiment": {
+      "label": "positive",
+      "score": 0.4952
+    },
+    "morale": {
+      "label": "under pressure",
+      "score": 0.1359
+    }
+  },
+  {
+    "id": "3458764624478590800",
+    "type": "sticky_note",
+    "text": "tarek is a whiz at bowling",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.4391
+    },
+    "sentiment": {
+      "label": "negative",
+      "score": 0.576
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2015
+    }
+  },
+  {
+    "id": "3458764624478590801",
+    "type": "sticky_note",
+    "text": "more strikes at bowling",
+    "emotion": {
+      "label": "anger",
+      "score": 0.3407
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8778
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.193
+    }
+  },
+  {
+    "id": "3458764624478590805",
+    "type": "sticky_note",
+    "text": "bowling",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7782
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.7009
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2411
+    }
+  },
+  {
+    "id": "3458764624478590806",
+    "type": "sticky_note",
+    "text": "could we add group s to slack so we can just tag eg aws team rather than tagging everyone",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8534
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8445
+    },
+    "morale": {
+      "label": "curious",
+      "score": 0.2874
+    }
+  },
+  {
+    "id": "3458764624478590807",
+    "type": "sticky_note",
+    "text": "retro invites for godot team",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.6627
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8872
+    },
+    "morale": {
+      "label": "collaborative",
+      "score": 0.1944
+    }
+  },
+  {
+    "id": "3458764624478590808",
+    "type": "sticky_note",
+    "text": "bowling",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7782
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.7009
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2411
+    }
+  },
+  {
+    "id": "3458764624478590809",
+    "type": "sticky_note",
+    "text": "sit down with the team once a week i love to include kotaro but my tesco club card budget is not enough to cover it sorry",
+    "emotion": {
+      "label": "sadness",
+      "score": 0.9841
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.4883
+    },
+    "morale": {
+      "label": "frustrated",
+      "score": 0.191
+    }
+  },
+  {
+    "id": "3458764624478590810",
+    "type": "sticky_note",
+    "text": "final rc for endless purrrsuit technically belongs to this team now p",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7147
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6348
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2389
+    }
+  },
+  {
+    "id": "3458764624478590812",
+    "type": "sticky_note",
+    "text": "plans for posttpcshowcase",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8914
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8566
+    },
+    "morale": {
+      "label": "engaged",
+      "score": 0.1968
+    }
+  },
+  {
+    "id": "3458764624478590813",
+    "type": "sticky_note",
+    "text": "godot is a little scuffed but i like it",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.5112
+    },
+    "sentiment": {
+      "label": "positive",
+      "score": 0.7277
+    },
+    "morale": {
+      "label": "tired",
+      "score": 0.3832
+    }
+  },
+  {
+    "id": "3458764624478590816",
+    "type": "sticky_note",
+    "text": "select monthly meeting presenter after each monthly review selected",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7128
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.916
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.1997
+    }
+  },
+  {
+    "id": "3458764624478590817",
+    "type": "sticky_note",
+    "text": "uma",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.4421
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5402
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.1778
+    }
+  },
+  {
+    "id": "3458764624478590818",
+    "type": "text",
+    "text": "previous action followup",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7527
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8472
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.4792
+    }
+  },
+  {
+    "id": "3458764624478590819",
+    "type": "sticky_note",
+    "text": "bowling",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7782
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.7009
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2411
+    }
+  },
+  {
+    "id": "3458764624478590820",
+    "type": "sticky_note",
+    "text": "there is alot going on now what should we keep track of godot red blue etc",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7936
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8301
+    },
+    "morale": {
+      "label": "curious",
+      "score": 0.2653
+    }
+  },
+  {
+    "id": "3458764624478590821",
+    "type": "sticky_note",
+    "text": "check there are groups for everyone eg lightning aws ml etc etc",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8921
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8511
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2635
+    }
+  },
+  {
+    "id": "3458764624478590822",
+    "type": "sticky_note",
+    "text": "everyone",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8771
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5681
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2914
+    }
+  },
+  {
+    "id": "3458764624478590823",
+    "type": "sticky_note",
+    "text": "no space on the designated floor space for us",
+    "emotion": {
+      "label": "sadness",
+      "score": 0.6795
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5454
+    },
+    "morale": {
+      "label": "blocked",
+      "score": 0.2952
+    }
+  },
+  {
+    "id": "3458764624478590824",
+    "type": "sticky_note",
+    "text": "ics",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.4739
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.4993
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2252
+    }
+  },
+  {
+    "id": "3458764624478590825",
+    "type": "sticky_note",
+    "text": "team lunch a particular space on a specific day",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7192
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8897
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2197
+    }
+  },
+  {
+    "id": "3458764624478590826",
+    "type": "sticky_note",
+    "text": "izzy",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7887
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5551
+    },
+    "morale": {
+      "label": "energised",
+      "score": 0.1128
+    }
+  },
+  {
+    "id": "3458764624478590827",
+    "type": "sticky_note",
+    "text": "find out to what extent godot may be a long term tool",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.786
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8941
+    },
+    "morale": {
+      "label": "uncertain",
+      "score": 0.2599
+    }
+  },
+  {
+    "id": "3458764624478590828",
+    "type": "sticky_note",
+    "text": "kris",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8237
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6004
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2048
+    }
+  },
+  {
+    "id": "3458764624478590829",
+    "type": "sticky_note",
+    "text": "post tpc plans",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8713
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8048
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2111
+    }
+  },
+  {
+    "id": "3458764624478590830",
+    "type": "sticky_note",
+    "text": "kris",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8237
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6004
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2048
+    }
+  },
+  {
+    "id": "3458764624478590831",
+    "type": "sticky_note",
+    "text": "izzy to reach out",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7328
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.7411
+    },
+    "morale": {
+      "label": "motivated",
+      "score": 0.1454
+    }
+  },
+  {
+    "id": "3458764624478590832",
+    "type": "sticky_note",
+    "text": "invite sub groups suds into design meetings",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8105
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8806
+    },
+    "morale": {
+      "label": "collaborative",
+      "score": 0.26
+    }
+  },
+  {
+    "id": "3458764624478590833",
+    "type": "sticky_note",
+    "text": "suds",
+    "emotion": {
+      "label": "sadness",
+      "score": 0.5402
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.4683
+    },
+    "morale": {
+      "label": "underwhelmed",
+      "score": 0.3777
+    }
+  },
+  {
+    "id": "3458764624478590834",
+    "type": "sticky_note",
+    "text": "try talk more in the dev channel so more people get context of chats",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.9614
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6407
+    },
+    "morale": {
+      "label": "collaborative",
+      "score": 0.1672
+    }
+  },
+  {
+    "id": "3458764624478590835",
+    "type": "sticky_note",
+    "text": "everyone",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.8771
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5681
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2914
+    }
+  },
+  {
+    "id": "3458764624478590836",
+    "type": "sticky_note",
+    "text": "sending devs to florida no comms about this",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.7293
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.8014
+    },
+    "morale": {
+      "label": "disengaged",
+      "score": 0.3292
+    }
+  },
+  {
+    "id": "3458764624478590837",
+    "type": "sticky_note",
+    "text": "kris neha",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.827
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.6916
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.212
+    }
+  },
+  {
+    "id": "3458764624478590838",
+    "type": "sticky_note",
+    "text": "find recording from marios meeting with yearly plan",
+    "emotion": {
+      "label": "neutral",
+      "score": 0.473
+    },
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.9361
+    },
+    "morale": {
+      "label": "connected",
+      "score": 0.2764
+    }
+  }
+]
